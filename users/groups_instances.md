@@ -1,9 +1,10 @@
-`GET https://vrchat.com/api/1/users/usr_2780213c-7d69-4974-91d5-b5617890f7d4/instances/groups`
-
+```http
+GET https://vrchat.com/api/1/users/usr_2780213c-7d69-4974-91d5-b5617890f7d4/instances/groups`
+```
 
 Response
 
-```
+```json
 {
     "fetchedAt": "2025-06-13T06:18:33.259Z",
     "instances": [{

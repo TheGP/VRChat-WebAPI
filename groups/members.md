@@ -1,10 +1,12 @@
-`GET https://vrchat.com/api/1/groups/grp_24733ed8-ebaf-4877-b670-6afae2f00ae2/members?n=25&offset=0`
+```http
+GET https://vrchat.com/api/1/groups/grp_24733ed8-ebaf-4877-b670-6afae2f00ae2/members?n=25&offset=0
+```
 
 n=100 is max
 
 Response
 
-```
+```json
 [{
     "groupId": "grp_24733ed8-ebaf-4877-b670-6afae2f00ae2",
     "id": "gmem_850e867f-2602-4ace-ba9e-634f51db1ac2",

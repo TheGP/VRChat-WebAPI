@@ -1,10 +1,12 @@
-`GET https://vrchat.com/api/1/users?sort=relevance&fuzzy=false&search=test&n=12`
+```http
+GET https://vrchat.com/api/1/users?sort=relevance&fuzzy=false&search=test&n=12
+```
 
 n=100 is max
 
 Response
 
-```
+```json
 [{
     "bio": "",
     "bioLinks": [],
