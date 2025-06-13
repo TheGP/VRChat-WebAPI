@@ -1,4 +1,4 @@
-POST https://vrchat.com/api/1/user/usr_301602c9-ef09-44cb-9ea2-0c31531af31c/friendRequest
+`POST https://vrchat.com/api/1/user/usr_301602c9-ef09-44cb-9ea2-0c31531af31c/friendRequest`
 
 Response
 

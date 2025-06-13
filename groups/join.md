@@ -1,4 +1,4 @@
-POST https://vrchat.com/api/1/groups/grp_2b30d2e5-301b-4922-aac6-e930ba481ee7/join?confirmOverrideBlock=false
+`POST https://vrchat.com/api/1/groups/grp_2b30d2e5-301b-4922-aac6-e930ba481ee7/join?confirmOverrideBlock=false`
 
 Response
 

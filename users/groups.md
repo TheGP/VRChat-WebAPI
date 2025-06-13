@@ -1,4 +1,4 @@
-GET https://vrchat.com/api/1/users/usr_71d185a0-1138-4208-9f68-7fc39600c0f5/groups
+`GET https://vrchat.com/api/1/users/usr_71d185a0-1138-4208-9f68-7fc39600c0f5/groups`
 
 Response
 

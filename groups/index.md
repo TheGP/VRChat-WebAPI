@@ -1,5 +1,4 @@
-GET
-	https://vrchat.com/api/1/groups/grp_09cf5947-252e-452e-b0c3-53ed19e40922?includeRoles=true&purpose=group
+`GET https://vrchat.com/api/1/groups/grp_09cf5947-252e-452e-b0c3-53ed19e40922?includeRoles=true&purpose=group`
 
 
 Response (if not member)

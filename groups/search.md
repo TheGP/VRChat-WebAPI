@@ -1,5 +1,4 @@
-GET
-	https://vrchat.com/api/1/groups?query=test&n=100
+`GET https://vrchat.com/api/1/groups?query=test&n=100`
 
 
 Response
