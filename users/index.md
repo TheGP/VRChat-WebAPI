@@ -1,8 +1,10 @@
 
-`GET https://vrchat.com/api/1/users/usr_73c883d7-4246-49df-ab04-1a1205b052f2`
-
-
+```http
+GET https://vrchat.com/api/1/users/usr_73c883d7-4246-49df-ab04-1a1205b052f2
 ```
+
+
+```json
 {
     "ageVerificationStatus": "hidden" | "18+",
     "ageVerified": false,

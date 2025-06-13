@@ -1,9 +1,10 @@
-`GET https://vrchat.com/api/1/groups?query=test&n=100`
-
+```http
+GET https://vrchat.com/api/1/groups?query=test&n=100`
+```
 
 Response
 
-```
+```json
 [{
     "bannerId": null,
     "bannerUrl": "https://assets.vrchat.com/www/groups/default_banner.png",
