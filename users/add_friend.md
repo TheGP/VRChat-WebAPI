@@ -2,7 +2,7 @@
 
 Response
 
-```
+```json
 {
     "id": "frq_98db998e-97be-4395-8813-39e44725fead",
     "senderUserId": "usr_2780213c-7d69-4974-91d5-b5617890f7d4",
